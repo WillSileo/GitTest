@@ -6,5 +6,6 @@ public class Main {
          System.out.println("sileo");
          System.out.println("更新1");
          System.out.println("更新2");
+         System.out.println("更新3");
     }
 }
